@@ -1,1 +1,2 @@
-The most Awesome Hex Color Generator in the world !!
+# Hex Color Generator
+A Web App written in Vanilla JavaScript. 
