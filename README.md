@@ -1,2 +1,2 @@
 # Hex Color Generator
-A Web App written in Vanilla JavaScript. 
+A Web App is written in Vanilla JavaScript. 
